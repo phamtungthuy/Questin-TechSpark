@@ -4,6 +4,11 @@
 </a>
 </div>
 
+<p align="center" >
+  <a href="./README.md">English</a> |
+  <a href="./README_vi.md">Vietnamese</a>
+</p>
+
 <details open>
 <summary><b>📕 Table of Contents</b></summary>
 
