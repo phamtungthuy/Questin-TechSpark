@@ -1,0 +1,125 @@
+{
+    "components": {
+        "begin": {
+            "obj": {
+                "component_name": "Begin",
+                "params": {
+                    "prologue": "Hi there!"
+                }
+            },
+            "downstream": ["Retrieval:1"],
+            "upstream": [],
+            "parent_id": ""
+        },
+        "Retrieval:1": {
+            "obj": {
+                "component_name": "Retrieval",
+                "params": {
+                    "kb_ids": [],
+                    "keywords_similarity_weight": 0.3,
+                    "similarity_threshold": 0.2,
+                    "top_k": 1024,
+                    "top_n": 6
+                }
+            },
+            "downstream": ["answer:0"],
+            "upstream": ["begin"]
+        },
+        "answer:0": {
+            "obj": {
+                "component_name": "Answer",
+                "params": {
+                    "post_answers": ["Chào"]
+                }
+            },
+            "downstream": [],
+            "upstream": ["Retrieval:1"]
+        }
+    },
+    "history": [],
+    "messages": [],
+    "reference": [],
+    "path": [],
+    "answer": [],
+    "graph": {
+        "nodes": [
+            {
+              "data": {
+                "form": {
+                  "prologue": "Hi! How can I help you?"
+                },
+                "label": "Begin",
+                "name": "Opener"
+              },
+              "dragging": false,
+              "height": 44,
+              "id": "begin",
+              "position": {
+                "x": 392.4805720357097,
+                "y": -51.634011497163186
+              },
+              "positionAbsolute": {
+                "x": 392.4805720357097,
+                "y": -51.634011497163186
+              },
+              "selected": false,
+              "sourcePosition": "left",
+              "targetPosition": "right",
+              "type": "beginNode",
+              "width": 100
+            },
+            {
+              "data": {
+                "form": {},
+                "label": "Answer",
+                "name": "Interface"
+              },
+              "dragging": false,
+              "height": 44,
+              "id": "answer:0",
+              "position": {
+                "x": 248.41227675535197,
+                "y": 216.6631932412045
+              },
+              "positionAbsolute": {
+                "x": 248.41227675535197,
+                "y": 216.6631932412045
+              },
+              "selected": false,
+              "sourcePosition": "left",
+              "targetPosition": "right",
+              "type": "logicNode",
+              "width": 200
+            },
+            {
+                "data": {
+                  "form": {
+                    "kb_ids": [],
+                    "keywords_similarity_weight": 0.3,
+                    "similarity_threshold": 0.2,
+                    "top_k": 1024,
+                    "top_n": 6
+                  },
+                  "label": "Retrieval",
+                  "name": "Search product info"
+                },
+                "dragging": false,
+                "height": 44,
+                "id": "Retrieval:1",
+                "position": {
+                  "x": 674.4543037737495,
+                  "y": 855.3858500356805
+                },
+                "positionAbsolute": {
+                  "x": 674.4543037737495,
+                  "y": 855.3858500356805
+                },
+                "selected": false,
+                "sourcePosition": "right",
+                "targetPosition": "left",
+                "type": "retrievalNode",
+                "width": 200
+              }
+        ]
+    }
+}

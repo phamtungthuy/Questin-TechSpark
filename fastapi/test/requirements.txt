@@ -1,0 +1,9 @@
+locust==2.32.2
+ragas==0.2.5
+pytest==8.3.3
+python-dotenv==1.0.1
+langchain-community==0.3.7
+langchain-openai==0.2.8
+chromadb==0.5.18
+llama-index
+tavily-python

@@ -1,0 +1,568 @@
+QUESTION
+Học Ngành  Công nghệ nông nghiệp ra làm việc ở đâu?
+
+
+ANSWER
+Kỹ sư CNNN với hai chuyên ngành đào tạo:
+– Nông nghiệp kỹ thuật số
+– Công nghệ sinh học nông nghiệp
+Có thể làm ở các vị trí sau:
+
+Kỹ sư công nghệ nông nghiệp kỹ thuật số tại các doanh nghiệp sản xuất, kinh doanh và sử dụng các thiết bị nông nghiệp công nghệ cao: chuyên thiết kế, chế tạo, lập trình, lắp đặt, vận hành hệ thống và thiết bị nông nghiệp công nghệ cao dựa trên nền tảng kỹ thuật điều khiển, công nghệ thông tin và truyền thông.
+Kỹ sư công nghệ sinh học nông nghiệp: sử dụng các công nghệ cao để nhân giống, trồng cây trong vườn ươm, chuyển giao công nghệ, tạo các chế phẩm sinh học nông nghiệp công nghệ mới, bảo quản chế biến nông sản, kiểm định chất lượng nông sản.
+Cán bộ quản lý dự án nông nghiệp công nghệ cao, cán bộ quản lý và tư vấn chính sách về nông nghiệp công nghệ cao ở các sở/ bộ Khoa học Công nghệ và sở/bộ Nông nghiệp và phát triển nông thôn.
+Nghiên cứu viên và giảng viên về lĩnh vực công nghệ và công nghệ nông nghiệp trong các cơ sở giáo dục và cơ sở nghiên cứu về nông nghiệp và công nghệ.
+Khởi nghiệp đổi mới sáng tạo trong lĩnh vực công nghệ và công nghệ nông nghiệp.
+Các vị trí khác liên quan đến lĩnh vực Công nghệ thông tin, điện tử viễn thông, điều khiển tự động và Công nghệ sinh học.
+
+Ví dụ công việc cụ thể như:
+
+Trong trồng trọt:
+
+– Thiết kế điều khiển tự động hệ thống nhà lưới, lập trình điều khiển tự động các hệ thống tưới nước và cung cấp phân bón cho cây trong nhà lưới bằng smartphone tùy theo nhiệt độ, độ ẩm môi trường và nhu cầu của cây trồng
+– Phát triển các phần mềm quản lý và ra quyết định dựa vào dữ liệu lớn
+– Phát triển các phần mềm kết nối nông dân với thị trường, người bán giống với người mua giống, người bán nông sản với người mua nông sản,  dự báo dịch bệnh, mùa màng,  khuyến nghị về thời vụ cây trồng, chế độ phân bón, cảnh báo sâu bệnh, diệt cỏ kỹ thuật số…
+– Thiết kế chế tạo cảm biến nhiệt độ, độ ẩm, dinh dưỡng
+– Chế tạo phân bón thông minh, bảo vệ thực vật
+– Nhân giống các cây trồng cho các loại đối tượng có giá trị kinh tế cao như: rau, hoa, cây giống, nấm ăn và nấm dược liệu.
+
+Trong chăn nuôi và thủy sản: gắn thiết bị cảm biến lên từng vật nuôi để theo dõi, thu thập và xử lý dữ liệu để đưa ra khuyến cáo; xử lý chuồng trại, môi trường bằng công nghệ cao
+
+Trong khuyến nông: số hóa các thông tin về giá, đặc điểm các loại nông sản, kỹ thuật trong trồng trọt, chăn nuôi, các thông tin về dịch hại, quản lý thông tin qua IoTs và cung cấp cho nông dân thông tin qua di động để giảm thiểu vấn đề được mùa mất giá;
+Trong khâu marketing và tiêu thụ: marketing trực tuyến, truy xuất nguồn gốc trực tuyến
+
+
+QUESTION
+Sinh viên học ngành Công nghệ nông nghiệp được thực hành, thực tập ở đâu?
+
+
+ANSWER
+Sinh viên ngành CNNN được thực hành, thực tập công nghệ thông tin, truyền thông, tự động hóa, công nghệ sinh học, công nghệ nano tại các phòng thí nghiệm công nghệ cao, xưởng thực nghiệm, phòng máy của Trường ĐHCN; thực tập về nông nghiệp và ứng dụng công nghệ trong nông nghiệp tại các khu thực nghiệm của Viện Di truyền nông nghiệp, Viện Bảo vệ thực vật, Viện Thổ nhưỡng nông hóa ở gần Trường ĐHCN, Trung tâm chuyển giao công nghệ và khuyến nông, Viện Nông lâm nghiệp miền núi phía Bắc, Viện Môi trường nông nghiệp, Viện nghiên cứu rau quả và các viện khác của Bộ nông nghiệp và phát triển nông thôn, thực tập lên men và phát triển sinh phẩm tại Xưởng sản xuất thử nghiệm của Viện Vi sinh vật và Công nghệ sinh học tại Hòa Lạc. http://fat.uet.vnu.edu.vn/?p=1099
+Sinh viên có cơ hội được thực tập làm dự án cùng các chuyên gia tại Trung tâm nông nghiệp nhiêt đới quốc tế (CIAT) về NÔNG NGHIỆP KỸ THUẬT SỐ và VI SINH NÔNG NGHIỆP.  Đây là trung tâm đa quốc gia, có trụ sở chính ở Colombia, trụ sở của khu vực châu Phi tại Kenia và trụ sở của khu vực châu Á tại Hà Nội Việt Nam (gần Trường ĐHCN). Môi trường thực tập đa văn hóa, đa quốc tịch,  chuyên nghiệp, ngôn ngữ giao tiếp tiếng Anh. https://ciat.cgiar.org/where-we-work/asia/
+
+
+Đoàn Đại học Quốc gia Hà Nội và Trường Đại học Công nghệ thăm và làm việc với CIAT tại trụ sở CIAT châu Á
+
+CIAT và ĐHQGHN đã kí biên bản ghi nhớ và hợp tác NCKH và đào tạo vào tháng 1/2019
+http://fat.uet.vnu.edu.vn/?p=538
+Sinh viên có cơ hội đc thực tập tại các doanh nghiệp đang hợp tác với Khoa Công nghệ Nông nghiệp và Trường Đại học Công nghệ như:
+
+
+Công ty CP Giải pháp Thời tiết và Nông nghiệp (AgriMedia) và Viện Công nghệ xanh (GREENTECH) (http://fat.uet.vnu.edu.vn/?p=928)
+
+
+Công ty cổ phần đầu tư phát triển và ứng dụng khoa học và công nghệ Môi trường (AGBiotech),
+
+
+Công ty TNHH Đầu tư phát triển sản xuất Nông nghiệp VinEco
+
+
+Công ty TNHH Nấm Long Hải
+
+
+Công ty TNHH Hoa Á Châu. Tập đoàn Yamabunn Nhật Bản
+
+
+Số lượng các doanh nghiệp hợp tác với Khoa và trường đang được tiếp tục được phát triển
+
+
+QUESTION
+Ngành Công nghệ nông nghiệp đào tạo tại Trường Đại học Công nghệ Đại học Quốc gia Hà Nội có gì khác với các ngành nông nghiệp đang được đào tạo tại các đơn vị khác?
+
+
+ANSWER
+Ngành Công nghệ nông nghiệp (CNNN) đào tao các kỹ sư công nghệ (hiểu biết vê các công nghệ thông tin, điện tử truyền thông, kỹ thuật số, tự động hóa, công nghệ sinh học và công nghệ nano) và được trang bị các kiến thức cần thiết nhất vê nông nghiệp (trồng trọt,  chăn nuôi,  thủy sản) để ứng dụng các công nghệ trên vào nông nghiệp. Còn ngành nông nghiệp ở các trường viện khác đào tạo các kỹ sư nông nghiệp thiên về các phương pháp canh tác truyền thống.
+Xem tóm tắt chương trình đào tạo kỹ sư ngành Công nghệ nông nghiệp tại: http://fat.uet.vnu.edu.vn/?p=1000
+Ngành Công nghệ nông nghiệp được đào tạo tại Trường ĐHCN tận dụng được nền tảng công nghệ là các thế mạnh của Trường. Trường có các phòng thí nghiệm công nghệ cao, phòng học hiện đại, phòng máy tính trang bị đầy đủ, các giảng viên giỏi về công nghệ, năng động, giàu nhiệt huyết.
+
+
+QUESTION
+Em dự định thi vao trường nhưng em không biết trường có đào tạo ngành an toàn thông tin không ạ?
+
+
+ANSWER
+Trường Đại học Công nghệ có trang bị các kiến thức về an toàn thông tin cho sinh viên của một số ngành đào tạo.
+Nếu em muốn tìm hiểu về an toàn thông tin có thể đăng ký vào học ngành Công nghệ thông tin hoặc ngành Mạng máy tính và truyền thông dữ liệu nhé.
+Em có thể tham khảo thêm thông tin về Trường Đại học Công nghệ qua website: http://tuyensinh.uet.vnu.edu.vn/ hoặc liên hệ trực tiếp với Trường theo số: 02437547865.
+Thân mến.
+
+
+QUESTION
+Cho em hỏi là trường mình có xét hệ liên thông lên không ạ? Em cảm ơn.
+
+
+ANSWER
+Chào em, Trường ĐHCN chỉ tuyển sinh hệ chính quy.
+Thân mến.
+
+
+QUESTION
+Em rất hâm mộ trường đại học công nghệ từ lâu rồi ạ. Mai sau em muốn làm công việc là lập trình để viết phần mềm cho các công ty doanh nghiệp làm bên phần kinh tế để họ giảm bớt công đoạn trong công việc. Thầy/ cô tư vấn cho em nên vào ngành nào khoa nào trong trường ạ?
+
+
+ANSWER
+Chào em, nếu em muốn làm công việc là lập trình thì ngành Công nghệ thông tin rất phù hợp với em.
+Ngành Công nghệ Thông tin đào tạo kiến thức và kỹ năng quan trọng và hiện đại về CNTT với mục tiêu đạt trình độ chung của khu vực và quốc tế, cho phép sinh viên tốt nghiệp ra trường có thể nhanh chóng đáp ứng các nhu cầu về hoạt động công nghệ thông tin của xã hội cũng như tiếp tục học tập, nghiên cứu và phát triển ngành Công nghệ Thông tin.
+Sinh viên tốt nghiệp ngành CNTT có thể làm tại các công ty công nghệ với nhiều vị trí khác nhau từ lập trình viên, lập trình các hệ thống thông minh, phân tích thiết kế hệ thống, kiểm thử phần mềm, quản trị mạng…
+Em thảo khảo thông tin: https://uet.vnu.edu.vn/category/tuyen-sinh/dai-hoc/
+Chúc em thi tốt và trở thành sinh viên Đại học Công nghệ nhé.
+
+
+QUESTION
+Em quan tâm đến ngành (thí điểm) Công nghệ vũ trụ, tương lai ngành này thế nào ? Cơ hội làm việc tại những đơn vị nào ?
+
+
+ANSWER
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có thể làm việc như các kỹ sư sản xuất và bảo dưỡng máy bay cho các công ty dân sự và quân sự (Viettel, Vietnam Airlines, VietJet Air, Bamboo Airways,…), hoặc phát triển nghề nghiệp nghiên cứu tại các cơ quan trong và ngoài nước hoạt động về hàng không vũ trụ.
+Đối với công nghệ vũ trụ, sinh viên tốt nghiệp có thể nghiên cứu sản xuất vệ tinh cỡ nhỏ, cung cấp các công cụ hỗ trợ (phần mềm xử lý ảnh, lập bản đồ viễn thám) phục vụ cho mục đích an ninh và phát triển kinh tế của quốc gia.
+Sinh viên tốt nghiệp có thể làm việc trong các ngành công nghiệp khác như: kỹ thuật cơ khí, xây dựng, năng lượng…
+Em có thể tìm hiểu các thông tin chi tiết về ngành Công nghệ hàng không vũ trụ của Trường Đại học Công nghệ tại địa chỉ sau: https://sae.uet.vnu.edu.vn/
+Thân mến.
+
+
+QUESTION
+Khoa công nghệ hàng không vũ trụ đào tạo những công việc như thế nào ạ ?
+
+
+ANSWER
+Ngành Công nghệ Hàng không Vũ trụ đào tạo các kỹ sư đam mê chinh phục không gian. Chương trình đào tạo cung cấp các định hướng nghề nghiệp liên quan đến thiết kế, sản xuất các thiết bị bay, các hệ thống điều khiển, công nghệ vệ tinh, tên lửa.
+Đây là chương trình có nhiều ưu đãi cho sinh viên trong quá trình học tập và tốt nghiệp. Khoảng 30% sinh viên của chương trình sẽ được Viettel cấp học bổng toàn phần (được miễn học phí và nhận học bổng phục vụ việc học tập) trong quá trình đào tạo; được thực tập, thực hành tại các phòng thí nghiệm hiện đại của Trường, Viện Hàng không Vũ trụ Viettel và Trung tâm Vũ trụ Việt Nam.
+Kỹ sư tốt nghiệp chương trình có nhiều cơ hội việc làm tại các Hãng hàng không, các Viện nghiên cứu trong và ngoài nước, ngoài ra, Viettel sẽ tuyển dụng trực tiếp các sinh viên tốt nghiệp loại giỏi, xuất sắc.
+
+
+QUESTION
+Thầy/ cô cho em hỏi  ngành kĩ thuật xây dựng giao thông của trường đào tạo về bên gì ạ?
+
+
+ANSWER
+Ngành Công nghệ kỹ thuật xây dựng đào tạo kiến thức và kỹ năng chuyên sâu về thiết kế và xây dựng công trình giao thông, công trình xây dựng dân dụng, quy hoạch đô thị. Sinh viên đồng thời được trang bị kiến thức về kết cấu công trình và vật liệu xây dựng tiên tiến. Sinh viên được thực hành tại các phòng thí nghiệm hiện đại về cơ học và vật liệu tiên tiến đồng thời thực tập tại các tập đoàn xây dựng liên kết với Nhà trường. Kỹ sư tốt nghiệp có khả năng làm việc tại các công ty thiết kế xây dựng, các tập đoàn xây dựng và các viện nghiên cứu chuyên ngành.
+Đào tạo kiến thức nhằm tính toán thiết kế, thi công, bảo hành bảo dưỡng các công trình như nhà cửa, nhà máy, cầu cống, đường giao thông. Lắp đặt các thiết bị trong công trình.
+Kỹ sư tốt nghiệp có khả năng làm việc tại các công ty thiết kế xây dựng, các tập đoàn xây dựng và các viện nghiên cứu chuyên ngành.
+Em có thể tìm hiểu các thông tin chi tiết về ngành Công nghệ hàng không vũ trụ của Trường Đại học Công nghệ tại địa chỉ sau: https://uet.vnu.edu.vn/nganh-cong-nghe-ky-thuat-xay-dung/
+Thân mến.
+
+
+QUESTION
+Nhà trường cho em hỏi hiện tại tình trạng sinh viên học xong có việc làm không ạ
+
+
+ANSWER
+Em có thể tham khảo bài viết về triển vọng nghề nghiệp của sinh viên trường Đại học Công nghệ nhé: https://uet.vnu.edu.vn/trien-vong-nghe-nghiep-cua-sinh-vien-truong-dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi/
+Thân mến!
+
+
+QUESTION
+Em muốn tìm hiểu về trường mình ạ
+
+
+ANSWER
+Để tìm hiểu thông tin về Trường Đại học Công nghệ, em có thể làm theo các cách sau:
+
+Truy cập website của Trường: https://uet.vnu.edu.vn/
+Gọi điện thoại đến số: 024 3754 7861, 024 3754 7861
+Đến trực tiếp: Nhà E3, Trường Đại học Công nghệ, ĐHQGHN
+
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Thân mến.
+
+
+QUESTION
+Thầy/ cô cho em hỏi nếu đỗ vào trường với kết qủa thi THPTQG thì có phải thi thêm kì thi nào nữa ko ạ
+
+
+ANSWER
+Nếu em đã đỗ vào ngành CNTT mà muốn học chương trình CNTT Chất lượng cao thì em sẽ phải trải qua 1 kỳ thi nữa để được tham gia học chương trình này.
+Còn đối với các ngành khác, riêng yêu cầu về ngoại ngữ các em sẽ được thi 1 kỳ thi để sát hạch trình độ Tiếng Anh để phân lớp và có giải pháp bồi dưỡng phù hợp.
+Thân mến.
+
+
+QUESTION
+Thầy/ cô cho em hỏi các ngành CLC thường lấy điểm thấp hơn bình thường ạ?
+
+
+ANSWER
+So sánh điểm của 2 chương trình mà cách xét điểm khác nhau thì cũng không thể chính
+xác được em ạ.
+Đối với chương trình chuẩn
+ĐX = (Môn 1 + Môn 2 + Môn 3) + Điểm ƯT (ĐT,KV) (ĐX được làm tròn đến hai chữ số thập phân)
+Đối với chương trình CLC
+ĐX = (Môn chính 1 x 2 + Môn chính 2 x 2 + Môn 3) x 3/5 + Điểm ƯT (KV, ĐT) (ĐX được làm tròn đến hai chữ số thập phân)
+Nên em cũng cân nhắc xem mình muốn học theo chương trình nào em nhé.
+Thân mến.
+
+
+QUESTION
+Nhà trường cho em hỏi chuyên ngành vật lí kĩ thuật đào tạo về những gì ạ?
+
+
+ANSWER
+Ngành Vật lý Kỹ thuật đào tạo về Cơ sở vật lý hiện đại, vật lý ứng dụng, Khoa học và Công nghệ nano, Vật liệu và Linh kiện tiên tiến trong các lĩnh vực Vi điện tử, Năng lượng xanh, Y-sinh và Môi trường.
+Sinh viên được thực tập và NCKH tại phòng thí nghiệm trọng điểm và hệ thống các phòng thí nghiệm & thực hành với trang thiết bị hiện đại về công nghệ nano, nano quang tử, nano sinh học. Sinh viên tốt nghiệp có nhiều cơ hội làm việc tại các tập đoàn công nghệ tiến tiến như Samsung, Sumitomo Bakelite,… hoặc tiếp tục theo học sau đại học ở trong nước và nước ngoài.
+
+
+QUESTION
+Em muốn học về lập trình ios thì nên đăng ký khoa nào ạ?
+
+
+ANSWER
+Em nên thi khoa CNTT em ạ. Nếu em cần thêm ý kiến của các anh chị đi trước có thể vào trang: https://www.facebook.com/TVTS.UET.VNU/
+
+
+QUESTION
+Thầy/ cô cho e hỏi sao k có mã ngành ạ? Đăng kí theo mã nhóm ngành ạ?
+
+
+ANSWER
+Chào em, Trường tuyển sinh theo nhóm ngành. Nên em ghi mã nhóm ngành và tên nhóm ngành. Sau khi trúng tuyển vào nhóm ngành sẽ xét tiếp vào ngành theo nguyện vọng, điểm và chỉ tiêu của từng ngành. Thân mến.
+
+
+QUESTION
+Em muốn đăng kí đăng kí hai ngành thì như nào ạ ?
+
+
+ANSWER
+Chào em,
+Nếu em muốn đăng ký 2 ngành thuộc 2 nhóm ngành thì em viết theo thứ tự ưu tiên ngành nào em thích hơn lên trước.
+Nếu em đăng ký 2 ngành trong cùng 1 nhóm ngành thì em chỉ cần đăng ký theo nhóm ngành (mã nhóm ngành và tên nhóm ngành là đủ). Việc xét ngành sẽ tiến hành sau khi em trúng tuyển vào học tại Trường theo chỉ tiêu, điểm và nguyện vọng của thí sinh.
+Thân mến.
+
+
+QUESTION
+Em đang phân vân giữa ngành CNTT và CNTT định hướng Nhật bản không biết hai ngành này khác nhau như thế nào ạ?
+
+
+ANSWER
+CNTT định hướng thị trường Nhật Bản cơ bản sẽ đào tạo các kiến thức nền tảng như của ngành CNTT, nhưng các em sẽ được học một số các môn học theo đặc thù các doanh nghiệp Nhật Bản, các kỹ năng mềm quan trọng để làm việc trong môi trường doanh nghiệp CNTT nói chung và Nhật Bản nói riêng. Ngoài ra, sinh viên được học tiếng Nhật với giảng viên người Việt và người Nhật có kinh nghiệm, được thực tập tại các công ty công nghệ Nhật Bản trong quá trình học tập và nhiều cơ hội làm việc cho các công ty công nghệ tại Nhật Bản sau khi tốt nghiệp.
+
+
+QUESTION
+Thưa thầy/ cô, mã trường và mã ngành CNTT của trường là gì ạ?
+
+
+ANSWER
+Mã trường: QHI.
+Mã nhóm ngành CNTT: CN1.
+Bạn lưu ý là trường tuyển sinh theo nhóm ngành, sau khi trúng tuyển vào nhóm ngành sẽ xét ngành sau theo nguyện vọng, điểm và chỉ tiêu.
+
+
+QUESTION
+Trường có khoa điện tử viễn thông không ạ?
+
+
+ANSWER
+Chào em, Trường ĐHCN có Khoa ĐTVT. Đây là 1 trong 2 khoa tiền thân của Nhà trường. Em có thể tham khảo tại đây: http://fet.uet.vnu.edu.vn/
+
+
+QUESTION
+Em muốn hỏi là tuyển sinh ngành kỹ thuật robot thì điểm chuẩn bằng với kỹ thuật máy tính hay sao vậy?
+
+
+ANSWER
+Chào em, Nhà trường xét tuyển theo nhóm ngành, nên điểm trúng tuyển của nhóm ngành là điểm chuẩn của các ngành trong đó. Em lưu ý 2 ngành này thuộc nhóm ngành Máy tính và Robot nên khi đăng ký em ghi mã nhóm ngành là CN2 và tên nhóm ngành là Máy tính và Robot.
+
+
+QUESTION
+Em thấy mọi năm trường có tổ chức bài thi đánh giá năng lực, cho em hỏi là năm nay nhà trường có tổ chức không ạ?
+
+
+ANSWER
+Chào em, năm nay ĐHQGHN không tổ chức thi ĐGNL. Từ năm 2017 nhà trường đã xét tuyển theo kết quả kỳ thi THPT quốc gia .
+
+
+QUESTION
+Nếu em chưa biết gì về lập trình thì có học được ngành công nghệ thông tin không ạ? Em đang học khối A1 nhưng tiếng anh của em cũng không được tốt lắm, vậy có học được công nghệ thông tin không ạ?
+
+
+ANSWER
+Chào em, khi em trúng tuyển thì nhà trường sẽ đào tạo căn bản từ đầu cho các em chưa biết gì. Cũng tương tự, tiếng Anh là kỹ năng quan trọng, là công cụ để em đọc tài liệu, nghiên cứu, cũng như đáp ứng được yêu cầu của xã hội hội nhập ngày nay. Nên trong quá trình học em sẽ được trau dồi và tích lũy dần. Chúc em học và thi tốt.
+
+
+QUESTION
+Em muốn đăng ký ngành công nghệ thông tin và em muốn hỏi một vài thông tin về ngành này ạ.
+
+
+ANSWER
+Chào em, như trong giới thiệu về ngành chị đã gửi ở dưới, chị cũng trao đổi thêm rằng ngành CNTT hiện nay vẫn đang là 1 ngành thiếu nhân lực. Nhu cầu tuyển dụng đang rất lớn, quan trọng là sinh viên ra có làm được việc không. Học ở trường ĐHCN chị muốn em xác định rằng em học sẽ vất vả, không thể vừa học vừa chơi. Trường ĐHCN mong muốn sinh viên của mình khi ra trường phải làm được việc và khẳng định thương hiệu của ĐHCN nên yêu cầu sinh viên phải có kiến thức thật, học thật và thi thật em nhé. Em tham khảo khung chương trình ngành CNTT: https://uet.vnu.edu.vn/nganh-cong-nghe-thong-tin/
+
+
+QUESTION
+Thầy/ cô cho em hỏi trường Đại Học Công Nghệ , ĐHQGHN có đào tạo cơ điện tử không ạ
+
+
+ANSWER
+Chào em, Nhà trường có đào tạo ngành Công nghệ kỹ thuật cơ điện tử. Em có thể tham khảo các ngành của trường tại đây: https://uet.vnu.edu.vn/gioi-thieu-cac-nganh-dao-tao-dai-hoc-cua-truong-dai-hoc-cong-nghe/
+
+
+QUESTION
+Nhà trường cho em hỏi là ngành công nghệ thông tin của trường mình có lấy nguyện vọng 2 không ạ
+
+
+ANSWER
+Chào em, nguyên tắc xét điểm là xét từ cao xuống thấp đến khi đủ điểm vào một trong các nguyện vọng của em. Nếu điểm của em đủ đỗ vào 2 hoặc 3 nguyện vọng em đã đăng ký thì nguyện vọng đầu tiên được xét trước và em sẽ trúng tuyển vào ngành đó, các nguyện vọng 2 hoặc 3 kia không còn được xét đến nữa mặc dù em đủ điểm đỗ. Do đó ưu tiên của em sẽ là ngành nào yêu thích được xếp lên đầu.
+
+
+QUESTION
+Ở tờ đăng kí dự thi 1 và 2. Em vội quá nên nhờ bạn em ghi hộ 1 tờ và em ghi 1 tờ nên chữ nhìn khác nhau. Nhưng vẫn cùng màu mực ạ. Thi em hỏi như thế có bị làm sao không ạ?
+
+
+ANSWER
+Không sao em. Quan trọng là thông tin giống nhau là được.
+
+
+QUESTION
+Thầy/ cô cho em hỏi, trong phiếu đăng kí xét tuyển thẳng của bộ GDĐT như hình đính kèm: ở thông tin số 7 và số 8 chỉ điền được một năm, một loại giải, mà em lại đạt hai năm hai giải, nên bây giờ em viết vào đó giải nhì về lĩnh vực “kĩ thuật cơ khí”, hay giải ba về lĩnh vực “robot và thông minh” thì mới gần ngành “kĩ thuật robot” ạ! Em sợ nếu viết vào đó giải nhì lĩnh vực “kĩ thuật cơ khí” thì lại không gần với ngành “kĩ thuật robot”, còn viết vào giải ba lĩnh vực “robot và máy thông minh” thì giải thấp hơn, cơ hội được tuyển cũng sẽ thấp hơn. Mong thầy/ cô tư vấn, Em cảm ơn !
+
+
+ANSWER
+Chào em, Nhà trường giải thích cho em như sau: các giải em đạt được này được bảo lưu đến khi em tốt nghiệp THPT nên giải năm lớp 10 hay 11, 12 đều có giá trị như nhau. Thứ 2, cả 2 lĩnh vực của em đều phù hợp để tuyển thẳng vào ngành Kỹ thuật robot. Thứ 3, các trường hợp tuyển thẳng nhà trường ưu tiên các em trước nên em không sợ có cạnh tranh. Vì vậy việc ghi hồ sơ em ghi giải nào cũng được
+
+
+QUESTION
+Nhà trường cho em hỏi là năm nay là trường Đại Học Công Nghệ , ĐHQGHN tuyển thẳng không giới hạn đúng không ạ , tức là em bây giờ chỉ cần nạp đầy đủ hồ sơ tuyển thẳng thì sẽ được tuyển thẳng luôn đúng không ạ?
+
+
+ANSWER
+Tuyển thẳng là các trường hợp nhà trường ưu tiên xét tuyển nên sẽ tạo điều kiện tối đa theo nguyện vọng của thí sinh. Em yên tâm nộp hồ sơ nhé!
+
+
+QUESTION
+Thầy/cô cho em hỏi mã ngành công nghệ thông tin là gì vậy ạ
+
+
+ANSWER
+Ngành CNTT tuyển sinh theo nhóm ngành. Mã nhóm ngành là CN1, tên nhóm ngành là Công nghệ thông tin.
+
+
+QUESTION
+Nhà trường cho em hỏi là khi mà em được tuyển thẳng rồi ấy ạ, thì em muốn thi vào các lớp chất lượng cao thì phải thi bằng môn gì ạ ? ( ví dụ như toán với lý chẳng hạn )
+
+
+ANSWER
+Chào em,
+Hiện nay, Nhà trường có chương trình đào tạo chất lượng cao ngành CNTT. Để được vào học chương trình này, sau khi trúng tuyển, nhập học xong, em phải trải qua 1 kỳ thi nữa gồm có 2 môn: Lập trình và tiếng Anh.
+Thân mến.
+
+
+QUESTION
+Em là học sinh cấp 3 trường chuyên Khoa học tự nhiên thì có điều kiện gì để xét tuyển thẳng vào đại học Công nghệ không ạ (em được 3 năm học sinh giỏi),em học lớp chuyên Tin
+
+
+ANSWER
+Học sinh THPT chuyên thuộc ĐHQGHN được xét tuyển thẳng và xét tuyển vào bậc đại học tại ĐHQGHN phải đỗ tốt nghiệp THPT, có hạnh kiểm 3 năm học THPT đạt loại Tốt và đáp ứng một trong các tiêu chí sau:
++ Là thành viên chính thức đội tuyển dự kỳ thi Olympic hoặc các cuộc thi sáng tạo,triển lãm khoa học kỹ thuật khu vực, quốc tế;
++ Đạt giải chính thức trong kỳ thi chọn học sinh giỏi bậc THPT cấp ĐHQGHN;
++ Đạt giải chính thức trong kỳ thi Olympic chuyên Khoa học tự nhiên bậc THPT được tổ chức hàng năm;
++ Là thành viên chính thức của đội tuyển tham dự kỳ thi chọn học sinh giỏi quốc gia hoặc các cuộc thi sáng tạo khoa học kỹ thuật quốc gia;
++ Đạt danh hiệu học sinh giỏi từng năm học trong cả 3 năm THPT và có tổng điểm 4 bài thi/môn thi tốt nghiệp THPT đạt tối thiểu 28,0 điểm trong đó không có điểm bài thi/môn thi nào dưới 5,0 điểm;
+Nếu em là hs giỏi 3 năm thì phải có tổng điểm 4 bài thi từ 28 điểm trở lên và ko môn nào dưới 5 em nhé.
+Chúc em thi tốt và hẹn gặp em tại trường ĐH Công nghệ.
+
+
+QUESTION
+Em trai em học Chuyên Thái Bình và đạt giải khuyến khích thi Toán Quốc gia. Vậy có được cộng điểm khi ứng tuyển vào trường không ạ? Trong hồ sơ nộp cần giấy tờ gì để nhận diện là học sinh đạt giải không ạ?
+
+
+ANSWER
+Trường ĐH Công nghệ chỉ xét tuyển theo kết quả thi THTP quốc gia và không xét các tiêu chí khác.
+
+
+QUESTION
+Giới thiệu Ký túc xá Mỹ Đình – Đại học Quốc gia Hà Nội
+
+
+ANSWER
+Khu nhà ở sinh viên Mỹ Đình II được đánh giá là có địa thế đẹp với nhiều tiện ích cộng hưởng. Nơi đây cách trục đường 32 chưa tới 1km, tập trung nhiều tuyến xe Bus, tiện di chuyển, gần khu vực tập trung nhiều trường ĐH lớn như Trường ĐH Sư phạm Hà Nội, Trường ĐH Thương mại, Trường ĐH Công nghiệp, Học viện Báo chí và Tuyên truyền… đặc biệt chỉ cách ĐHQGHN hơn 2km.
+
+Với 02 tòa nhà có chiều cao 21 tầng, bao gồm: 1 tầng hầm, 1 tầng dịch vụ và gần 400 phòng ở, đáp ứng 2.328 chỗ ở cho sinh viên. Diện tích mỗi phòng tại KTX Mỹ Đình là 45m2 cho 6 sinh viên ở, trung bình diện tích sử dụng tối đa là hơn 7m2/sinh viên rộng hơn so với diện tích trung bình 4m2/ sinh viên của các KTX khác trên địa bàn Hà Nội. Tại tầng dịch vụ có đầy đủ các dịch vụ phục vụ nhu cầu sinh hoạt và học tập của sinh viên gồm: phòng y tế, bưu điện và tín dụng, bách hóa văn phòng phẩm, thư viện, kho sách, phòng thể thao trong nhà, phòng dịch vụ internet, quầy giải khát, kho bếp, phòng ăn, phòng cắt tóc… phục vụ sinh viên.
+KTX Mỹ Đình được đầu tư xây dựng với mục tiêu trở thành mô hình “ký túc xá kiểu mẫu” của Thành phố Hà Nội, đáp ứng tối đa nhu cầu sinh hoạt và học tập của học sinh- sinh viên. Ngoài việc phân chia thành khu vực nam nữ riêng biệt, KTX Mỹ Đình còn có chỗ ở cho học sinh khối THPT chuyên, sinh viên, học viên cao học, nghiên cứu sinh và một phần dành cho sinh viên quốc tế.
+Với tiêu chí “Sinh viên thanh lịch – Ký túc xá văn hoá”, Ban Quản lý KTX Mỹ Đình thường xuyên tổ chức các hoạt động hỗ trợ sinh viên nhằm hướng tới mục tiêu học tập, phát triển văn hoá, tri thức của sinh viên; đồng thời, đây còn là một cộng đồng giao lưu văn hoá giữa sinh viên Việt Nam và sinh viên quốc tế.
+
+Thông tin về KTX Mỹ Đình- ĐHQGHN
+
+Địa chỉ: Đơn nguyên 1, 2 Khu nhà ở sinh viên Mỹ Đình II, Đường Hàm Nghi, Nam Từ Liêm, Hà Nội
+1. Đối tượng đăng ký:
+– Học sinh, sinh viên, học viên cao học, nghiên cứu sinh đang theo học tại ĐHQGHN.
+2. Liên hệ và tư vấn giải đáp:
+Website: www.ktxmydinh.net
+Email: kytucxamydinh@gmail.com
+Hotline: 0432043999 (máy lẻ 101)
+Facebook: https://www.facebook.com/ktxmydinh/
+
+Một số hình ảnh về KTX Mỹ Đình:
+
+Toàn cảnh KTX Mỹ Đình
+
+
+Không gian phòng ký túc xá
+
+
+Căng tin trong khu ký túc xá
+
+
+Phòng tập thể thao trong khuôn viên KTX
+
+
+Phòng giặt là phục vụ sinh viên
+
+
+Gặp gỡ sinh viên quốc tế, một trong nhiều hoạt động được tổ chức thường xuyên tại KTX
+
+ 
+
+
+Nguồn tin: www.vnu.edu.vn
+
+
+QUESTION
+Nhà trường có ký túc xá cho sinh viên ngoại tỉnh ở không?
+
+
+ANSWER
+Trường ĐHCN trực thuộc ĐHQGHN nên được sử dụng hệ thống ký túc xá (KTX) của ĐHQG Hà Nội bao gồm 3 địa điểm là KTX Ngoại ngữ; KTX Mễ Trì; KTX Mỹ Đình.
+Hiện nay, hệ thống phòng ở ký túc xá hoàn toàn đáp ứng được nhu cầu của sinh viên, không hạn chế chỗ ở trong ký túc xá.
+
+
+QUESTION
+Em đạt giải học sinh giỏi cấp ĐHQG có được tuyển thẳng không?
+
+
+ANSWER
+Đối với học sinh các trường chuyên thuộc ĐHQGHN, nếu đạt giải chính thức trong kỳ thi chọn học sinh giỏi cấp ĐHQGHN và hạnh kiểm 3 năm học THPT đạt loại tốt thì được xét tuyển thẳng vào ngành phù hợp với môn đạt giải.
+
+
+QUESTION
+Em không biết gì về Tin học nhưng lại thích ngành CNTT thì em có theo học được không?
+
+
+ANSWER
+Điều này được chứ em. Tất cả các kiến thức về Tin học mà em chưa biết sẽ được Nhà trường trang bị cho em trong thời gian học tập tại Nhà trường để em có thể ra trường với tấm bằng CNTT trong tay. Tuy nhiên, cũng như bao sinh viên khác tại Trường ĐHCN, để đạt được tấm bằng tốt nghiệp thì bên cạnh việc được các Thầy/Cô truyền thụ kiến thức và phương pháp kỹ năng học tập, nghiên cứu, các em cần phải nỗ lực phấn đấu trong thời gian học tập nghiên cứu tại Trường.
+
+
+QUESTION
+Em đăng ký vào ngành CNTT nhưng không đủ điểm thì có cách nào để học ngành CNTT không?
+
+
+ANSWER
+Em có thể theo học các ngành học khác trong Trường như Vật lý Kỹ thuật, Cơ học Kỹ thuật,… sau một học kỳ nếu đủ điểm trung bình tích lũy thì em có thể theo học bằng kép ngành CNTT.
+
+
+QUESTION
+Em có chứng chỉ A-Level thì em có cơ hội được học ở ĐH Công nghệ không?
+
+
+ANSWER
+Nếu em có chứng chỉ A-level (mức điểm mỗi môn thi thuộc tổ hợp môn thi xét tuyển của Nhà trường đạt từ 60 điểm trở lên) thì em có quyền đăng ký xét tuyển vào chương trình đào tạo chất lượng cao đáp ứng thông tư 23 của BGD&ĐT (Khoa học máy tính, Công nghệ kỹ thuật điện tử, truyền thông).
+
+
+QUESTION
+Thầy cho em hỏi, đối tượng được tuyển thẳng vào Trường Đại học Công nghệ có phải làm bài thi tốt nghiệp THPT năm 2020 không ạ?
+
+
+ANSWER
+Các đối tượng được xét tuyển và xét tuyển thẳng vào Trường Đại học Công nghệ đều phải tốt nghiệp THPT.
+Nếu thí sinh đã tốt nghiệp THPT rồi thì không phải làm bài thi tốt nghiệp THPT năm 2020.
+Nếu thí sinh chưa tốt nghiệp THPT thì phải hoàn thành bài thi tốt nghiệp THPT năm 2020.
+
+
+QUESTION
+Xin Thầy/Cô cho tôi hỏi năm nay quy chế tuyển thẳng học sinh đạt giải quốc gia các môn văn hóa của trường cụ thể như thế nào a? Các cháu sẽ phải chuẩn bị giấy tờ xét tuyển như thế nào, thời gian, địa điểm cụ thể? Xin cảm ơn.
+
+
+ANSWER
+Năm 2020, Nhà trường tiếp tục xét tuyển thẳng và ưu tiên xét tuyển đối với các thí sinh tuyển thẳng các “Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia; thí sinh đoạt giải nhất, nhì, ba trong Cuộc thi khoa học, kỹ thuật cấp quốc gia, đã tốt nghiệp THPT … theo ngành phù hợp với môn thi hoặc nội dung đề tài dự thi mà thí sinh đã đoạt giải” theo đúng Quy chế tuyển sinh đại học, cao đẳng chính quy của Bộ GD-ĐT.
+Hồ sơ các em phải chuẩn bị như trong Hướng dẫn về công tác tuyển sinh năm 2020 của Bộ giáo dục và đào tạo.
+
+
+QUESTION
+Kính thưa thầy nếu là thí sinh tự do em có phải làm thủ tục gì khác hay được giảm kì thi chung của các em thí sinh mới thi năm nay không ạ?
+
+
+ANSWER
+Em là thí sinh tự do và đã tốt nghiệp THPT rồi thì năm nay em chỉ cần tham gia kỳ thi tốt nghiệp THPT quốc gia năm 2020 và làm những bài thi mà có tổ hợp môn thi xét tuyển vào Trường.
+
+
+QUESTION
+Thưa thầy cô em được giải 3 QG Cuộc thi Khoa học, kỹ thuật cấp quốc gia do Bộ GD&ĐT tổ chức thì được tuyển thẳng những khoa nào ạ?
+
+
+ANSWER
+Chào em,
+Theo Quy chế tuyển sinh đại học của Bộ Giáo dục và Đào tạo, thí sinh đoạt giải nhất, nhì, ba trong Cuộc thi khoa học, kỹ thuật cấp quốc gia, đã tốt nghiệp THPT được xét tuyển thẳng vào ĐH theo ngành phù hợp với môn thi hoặc nội dung đề tài dự thi mà thí sinh đã đoạt giải.
+Như vậy, việc em được xét tuyển thẳng vào khoa/ngành nào trong Trường phụ thuộc vào sự phù hợp của môn thi hoặc nội dung đề tài dự thi mà em đã đoạt giải.
+Thân mến.
+
+
+QUESTION
+Thưa Cô, khi đăng ký xét tuyển em được quyền đăng ký mấy nguyện vọng?
+
+
+ANSWER
+Chào em,
+Theo Hướng dẫn tuyển sinh đại học của Bộ Giáo dục và Đào tạo, em được đăng ký xét tuyển không giới hạn số nguyện vọng, số trường và phải sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 1 là nguyện vọng cao nhất).
+Theo kinh nghiệm xét tuyển, em nên đặt nguyện vọng mà em yêu thích nhất, mong muốn được trúng tuyển nhất lên trên thì khả năng em được thỏa mãn ước mơ sẽ cao nhất.
+Chúc em thành công!
+
+
+QUESTION
+Lớp 11 em đạt giải Ba môn Tin học kỳ thi học sinh giỏi cấp Quốc gia, lớp 12 em chỉ được giải Khuyến khích có được tuyển thẳng vào ngành Công nghệ thông tin không?
+
+
+ANSWER
+Thí sinh đoạt giải trong kỳ thi chọn học sinh giỏi quốc gia, đoạt giải trong Cuộc thi khoa học, kỹ thuật cấp quốc gia, nếu chưa tốt nghiệp THPT được bảo lưu đến hết năm tốt nghiệp THPT. Do đó kết quả thi năm lớp 11 của em được sử dụng để tuyển thẳng vào ngành CNTT.
+
+
+QUESTION
+Cơ hội việc làm khi tốt nghiệp tại ĐH Công nghệ có cao không?
+
+
+ANSWER
+Theo thống kê của Trung tâm đảm bảo chất lượng, tỷ lệ sinh viên tốt nghiệp có việc làm sau 6 tháng ra Trường của Trường ĐHCN đạt 95%, đặc biệt các ngành thuộc lĩnh vực CNTT, Công nghệ điện tử viễn thông và Cơ điện tử thì tỷ lệ này là 100%. Nhiều bạn sinh viên đã được các tập đoàn/doanh nghiệp lớn nhận thực tập và làm việc ngay khi còn đang là sinh viên năm thứ 3, thứ 4 của Nhà trường. Điển hình gần đây có bạn  Phạm Văn Hạnh, sv năm 2 ngành Khoa học máy tính được Intern (thực tập ở Facebook Anh) và bạn Nguyễn Đức Minh, sv năm 2 ngành Khoa học máy tính được Intern (thực tập ở Google Mĩ), …
+Em có thể tham khảo thông tin bài viết: https://uet.vnu.edu.vn/trien-vong-nghe-nghiep-cua-sinh-vien-truong-dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi/
+
+
+QUESTION
+Học xong ngành Công nghệ kỹ thuật xây dựng – giao thông ra trường làm việc ở đâu?
+
+
+ANSWER
+Sinh viên tốt nghiệp ngành Công nghệ kỹ thuật xây dựng – giao thông khi ra trường có khả năng, năng lực, kiến thức thì có thể đảm nhiệm các vị trí cán bộ kỹ thuật, thi công, giám sát, quản lý các công trình và quản lý dự án trong các tổ chức, doanh nghiệp, cơ quan trong và ngoài nước trong lĩnh vực kỹ thuật giao thông và xây dựng cũng như cán bộ giảng dạy, nghiên cứu trong lĩnh vực xây dựng, giao thông và kỹ thuật hạ tầng.
+
+
+QUESTION
+Học ngành Kỹ thuật năng lượng khi ra trường làm gì?
+
+
+ANSWER
+Sinh viên tốt nghiệp ngành Kỹ thuật năng lượng khi ra trường có khả năng, năng lực, kiến thức đảm nhiệm các vị trí cán bộ kỹ thuật trong lĩnh vực liên quan đến năng lượng mặt trời và các dạng năng lượng sạch, năng lượng tái tạo, năng lượng truyền thống tại các công ty, tập đoàn trong và ngoài nước cũng như giảng viên, nghiên cứu viên tại các trường đại học, viện nghiên cứu.
+
+
+QUESTION
+Ngành nào của trường học về an ninh mạng ạ?
+
+
+ANSWER
+Hiện nay, Trường Đại học Công nghệ có 02 ngành đào tạo các kiến thức liên quan an ninh mạng là Mạng máy tính và truyền thông dữ liệu và ngành Công nghệ thông tin.
+
+
+QUESTION
+Nếu e đăng ký ngành công nghệ thông tin của trường Đại học Công nghệ thì em sẽ được đào tạo về mảng gì vậy ạ?
+
+
+ANSWER
+Trong 2 năm đầu, các em sẽ được đào tạo bài bản về lập trình và kiến thức cơ sở về lĩnh vực CNTT, 2 năm cuối sẽ tập trung vào các kiến thức và kỹ năng hiện đại theo các định hướng chính của CNTT như KHMT, công nghệ mạng, khoa học dữ liệu, công nghệ phần mềm.
+
+
+QUESTION
+Cho em hỏi nếu em trượt NV1 thì sang NV2 em có được xét ngang với các bạn là NV1 ko ạ?
+
+
+ANSWER
+Theo Quy chế và Hướng dẫn tuyển sinh đại học hiện hành, thí sinh có thể đăng ký nhiều nguyện vọng trong mỗi đợi xét tuyển. Các trường ĐH sẽ xét tuyển dựa trên tổng điểm các môn thi trong tổ hợp xét tuyển chứ không quan tâm đến nguyện vọng. Nói cách khác, các nguyện vọng của thí sinh được xét bình đẳng như nhau. Nếu em trượt nguyện vọng 1 hay 2 mà đỗ nguyện vọng 3 thì vẫn xét tuyển bình đẳng như các bạn có nguyện vọng 1 vào ngành đào tạo em đăng ký ở NV3. Ngược lại, nếu em đỗ trượt NV1 và đỗ NV2 thì các nguyện vọng còn lại của em (NV3 trở đi) sẽ bị xóa. Thí sinh chỉ trúng tuyển DUY NHẤT 1 nguyện vọng trong mỗi đợt xét tuyển.
+
+
+QUESTION
+Nhà trường xét tuyển thì ưu tiên điểm hay ưu tiên nguyện vọng trước ạ?
+
+
+ANSWER
+Theo Quy chế tuyển sinh hiện hành và Hướng dẫn của ĐHQGHN, các trường/khoa sẽ xét tuyển theo tổng điểm tổ hợp các môn thi/bài thi và điểm ưu tiên (nếu có) mà không quan tâm đến nguyện vọng của thí sinh. Các nguyện vọng đăng ký đều được xét tuyển một cách bình đẳng như nhau. Nguyện vọng của thí sinh chỉ được xem xét trong trường hợp thí sinh ở cuối danh sách xét tuyển vượt quá chỉ tiêu tuyển sinh có tổng điểm như nhau, tiêu chí phụ giống nhau thì thí sinh nào có nguyện vọng cao hơn sẽ được ưu tiên xét trước.

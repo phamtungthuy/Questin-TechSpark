@@ -1,0 +1,36 @@
+questin:
+  host: 0.0.0.0
+  http_port: 8000
+mysql:
+  name: 'questin'
+  user: 'root'
+  password: 'questin_password'
+  host: 'mysql'
+  port: 3306
+  max_connections: 100
+  stale_timeout: 30
+minio:
+  user: 'questin_user'
+  password: 'questin_password'
+  host: 'minio:9000'
+redis:
+  db: 1
+  password: 'questin_password'
+  host: 'redis:6379'
+es:
+  hosts: 'http://es01:9200'
+  username: 'elastic'
+  password: 'questin_password'
+user_default_llm:
+  factory: "OpenAI-API-Compatible"
+  base_url: "http://questin:8000"
+  api_key: ""
+oauth:
+  github:
+    client_id: xxx
+    secret_key: xxx
+    url: https://github.com/login/oauth/access_token
+  google:
+    client_id: xxx
+    secret_key: xxx
+    url: https://oauth2.googleapis.com/token

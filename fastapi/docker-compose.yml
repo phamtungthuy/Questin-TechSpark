@@ -1,0 +1,161 @@
+services:
+  questin:
+    container_name: questin
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - ${QUESTIN_SERVER_PORT}:8000
+    volumes:
+      - ./:/questin
+      - ./conf/nginx/questin.conf:/etc/nginx/conf.d/questin.conf
+      - ./conf/nginx/proxy.conf:/etc/nginx/proxy.conf
+      - ./conf/nginx/nginx.conf:/etc/nginx/nginx.conf
+    environment:
+      - HF_ENDPOINT=https://huggingface.co
+    depends_on:
+      mysql:
+        condition: service_healthy
+      minio:
+        condition: service_started
+      redis:
+        condition: service_started
+      es01:
+        condition: service_healthy
+    networks: 
+      - questin
+
+  mysql:
+    image: mysql:8.0
+    container_name: fastapi-questin-mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=${MYSQL_PASSWORD}
+      - TZ=${TIMEZONE}
+    command:
+      --max_connections=1000
+      --character-set-server=utf8mb4
+      --collation-server=utf8mb4_general_ci
+      --default-authentication-plugin=caching_sha2_password
+      --tls_version="TLSv1.2,TLSv1.3"
+      --init-file /data/application/init.sql
+    ports:
+      - ${MYSQL_PORT}:3306
+    volumes:
+      - fastapi_questin_mysql_data:/var/lib/mysql
+      - ./init.sql:/data/application/init.sql
+    networks:
+      - questin
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-uroot", "-p${MYSQL_PASSWORD}"]
+      interval: 10s
+      timeout: 10s
+      retries: 3
+
+  minio:
+    image: quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+    container_name: fastapi-questin-minio
+    command: server --console-address ":9001" /data
+    ports:
+      - ${MINIO_PORT}:9000
+      - ${MINIO_CONSOLE_PORT}:9001
+    environment:
+      - MINIO_ROOT_USER=${MINIO_USER}
+      - MINIO_ROOT_PASSWORD=${MINIO_PASSWORD}
+    volumes:
+      - fastapi_questin_minio_data:/data
+    networks:
+      - questin
+
+  redis:
+    image: redis:7.2-alpine
+    container_name: fastapi-questin-redis
+    command: redis-server --requirepass ${REDIS_PASSWORD} --maxmemory 128mb --maxmemory-policy allkeys-lru
+    ports:
+      - ${REDIS_PORT}:6379
+    volumes:
+      - fastapi_questin_redis_data:/data
+    networks:
+      - questin
+
+  es01:
+    container_name: fastapi-questin-es-01
+    image: docker.elastic.co/elasticsearch/elasticsearch:${STACK_VERSION}
+    volumes:
+      - fastapi_questin_esdata:/usr/share/elasticsearch/data
+    ports:
+      - ${ES_PORT}:9200
+    environment:
+      - node.name=es01
+      - ELASTIC_PASSWORD=${ELASTIC_PASSWORD}
+      - bootstrap.memory_lock=false
+      - discovery.type=single-node
+      - xpack.security.enabled=true
+      - xpack.security.http.ssl.enabled=false
+      - xpack.security.transport.ssl.enabled=false
+      - TZ=${TIMEZONE}
+      - cluster.max_shards_per_node=4096
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    mem_limit: ${MEM_LIMIT}
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    healthcheck:
+      test: ["CMD-SHELL", "curl http://localhost:9200"]
+      interval: 10s
+      timeout: 10s
+      retries: 120
+    networks:
+      - questin
+
+  # kibana:
+  #   container_name: fastapi-questin-kibana
+  #   image: docker.elastic.co/kibana/kibana:${STACK_VERSION}
+  #   ports:
+  #     - ${KIBANA_PORT}:5601
+  #   volumes:
+  #     - fastapi_questin_kibana:/usr/share/kibana/data
+  #   environment:
+  #     - ELASTICSEARCH_HOSTS=http://es01:9200
+  #     - ELASTICSEARCH_USERNAME=${KIBANA_USER}
+  #     - ELASTICSEARCH_PASSWORD=${KIBANA_PASSWORD}
+  #     - TZ=${TIMEZONE}
+  #   depends_on:
+  #     es01:
+  #       condition: service_healthy
+  #     kibana-user-init:
+  #       condition: service_completed_successfully
+  #   networks:
+  #     - questin
+
+  # kibana-user-init:
+  #   image: appropriate/curl
+  #   depends_on:
+  #     es01:
+  #       condition: service_healthy
+  #   volumes:
+  #     - ./init-kibana.sh:/app/init-kibana.sh
+  #   environment:
+  #     - ELASTIC_PASSWORD=${ELASTIC_PASSWORD}
+  #     - KIBANA_USER=${KIBANA_USER}
+  #     - KIBANA_PASSWORD=${KIBANA_PASSWORD}
+  #   command: /bin/sh -c "sh /app/init-kibana.sh"
+  #   networks:
+  #     - questin
+      
+volumes:
+  fastapi_questin_mysql_data:
+    driver: local
+  fastapi_questin_minio_data:
+    driver: local
+  fastapi_questin_redis_data:
+    driver: local
+  fastapi_questin_esdata:
+    driver: local
+  # fastapi_questin_kibana:
+  #   driver: local
+    
+networks:
+  questin:
+    driver: bridge
+
+    

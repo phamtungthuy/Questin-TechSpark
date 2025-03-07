@@ -1,0 +1,213 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --font-color: #333;
+    --switch-color: white;
+    --background-color: white;
+    --color-background-secondary: rgb(244, 244, 245);
+    --search-bg-color: white;
+    --color-primary: rgb(51, 144, 236);
+    --border: #707579;
+    --border-on-click: #3390ec;
+    --hover: #f3f3f3;
+    --bg-chat-1: #d2d78d;
+    --bg-chat-2: #8bb985;
+    --bg-chat-3: #74a98a;
+    --bg-chat-4: #d8dbb9;
+    --stroke-color: #a1ba92;
+    --icon-color: #aaaaaa;
+    --icon-color-active: var(--border-on-click);
+    --header-border: #aaaaaa;
+    --color-background-secondary-accent: rgb(228, 228, 229);
+    --color-borders-input: rgb(218, 220, 224);
+    --color-placeholders: #a2acb4;
+    --color-text-secondary: rgb(112, 117, 121);
+    --color-background-compact-menu: rgb(255, 255, 255, 0.733);
+    --color-background-compact-menu-hover: rgb(0, 0, 0, 0.067);
+    --color-default-shadow: rgb(114, 114, 114, 0.251);
+    --color-primary-shade: rgb(74, 149, 214);
+    --checkbox-fill: var(--border-on-click);
+    --bg-hover: #fcf0f0;
+    --sec-bg: #f4f4f5;
+    --gradient-bg: rgb(157, 215, 234);
+    --msgtextbox-color: rgb(238, 238, 238);
+    --chat-ib-color-self: #3390ec;
+}
+
+[data-theme="dark"] {
+    --font-color: #eee;
+    --switch-color: black;
+    --background-color: #212121;
+    --color-background-secondary: rgb(15, 15, 15);
+    --color-primary: rgb(135, 116, 225);
+    --search-bg-color: #181818;
+    --border: none;
+    --border-on-click: #8774e1;
+    --hover: #2b2b2b;
+    --bg-chat-1: black;
+    --bg-chat-2: black;
+    --bg-chat-3: black;
+    --bg-chat-4: black;
+    --stroke-color: url(#stroke-gradient);
+    --icon-color: #aaaaaa;
+    --icon-color-active: var(--border-on-click);
+    --header-border: black;
+    --color-background-secondary-accent: rgb(16, 15, 16);
+    --color-borders-input: rgb(91, 91, 90);
+    --color-placeholders: #a2acb4;
+    --color-text-secondary: rgb(170, 170, 170);
+    --color-background-compact-menu: rgb(33, 33, 33, 0.867);
+    --color-background-compact-menu-hover: rgb(0, 0, 0, 0.4);
+    --color-default-shadow: rgb(16, 16, 16, 0.612);
+    --color-primary-shade: rgb(123, 113, 198);
+    --checkbox-fill: var(--border-on-click);
+    --bg-hover: #322525;
+    --sec-bg: #181818;
+    --gradient-bg: rgb(182, 168, 225);
+    --msgtextbox-color: #3a3b3c;
+    --chat-ib-color-self: rgb(135, 116, 225);
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--font-color);
+    margin: 0;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+/* bg-gray-700/50  */
+@layer componentes {
+    .infoText {
+        @apply rounded-2xl max-w-[400px] transition hover:bg-slate-50;
+    }
+
+    .chatRow {
+        @apply rounded-lg px-5 py-3 text-sm flex items-center justify-center space-x-2 hover:bg-gray-700/70 cursor-pointer text-gray-300 transition-all duration-200 ease-out;
+    }
+
+    .twoColPage {
+        @apply flex min-h-full  flex-col;
+    }
+    .dialog {
+        @apply max-w-screen-md place-self-center rounded-xl;
+    }
+}
+
+@layer utilities {
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+    /* Hide scrollbar for IE, Edge and Firefox */
+    .no-scrollbar {
+        -ms-overflow-style: none; /* IE and Edge */
+        scrollbar-width: none; /* Firefox */
+    }
+}
+
+.twoColPage {
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;
+}
+
+.bgGradi {
+    background: hsla(196, 68%, 38%, 1);
+
+    background: linear-gradient(
+        90deg,
+        hsla(196, 68%, 38%, 1) 27%,
+        hsla(216, 41%, 15%, 1) 91%
+    );
+
+    background: -moz-linear-gradient(
+        90deg,
+        hsla(196, 68%, 38%, 1) 27%,
+        hsla(216, 41%, 15%, 1) 91%
+    );
+
+    background: -webkit-linear-gradient(
+        90deg,
+        hsla(196, 68%, 38%, 1) 27%,
+        hsla(216, 41%, 15%, 1) 91%
+    );
+
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#1F7EA1", endColorstr="#162234", GradientType=1 );
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+}
+
+.MuiSelect-icon {
+    color: black !important;
+}
+.MuiSvgIcon-root {
+    border-width: 1;
+    border: #000;
+}
+
+/* HTML: <div class="loader"></div> */
+.loader {
+    width: 30px;
+    aspect-ratio: 4;
+    background: radial-gradient(circle closest-side, #000 90%, #0000) 0 /
+        calc(100% / 3) 100% space;
+    clip-path: inset(0 100% 0 0);
+    animation: l1 1s steps(4) infinite;
+}
+@keyframes l1 {
+    to {
+        clip-path: inset(0 -34% 0 0);
+    }
+}
+
+/* HTML: <div class="loader"></div> */
+/* HTML: <div class="loader"></div> */
+.loader2 {
+    height: 5px;
+    aspect-ratio: 5;
+    -webkit-mask: linear-gradient(90deg, #0000, #000 20% 80%, #0000);
+    background: radial-gradient(closest-side at 37.5% 50%, #000 94%, #0000) 0 /
+        calc(80% / 3) 100%;
+    animation: l48 0.75s infinite linear;
+}
+@keyframes l48 {
+    100% {
+        background-position: 36.36%;
+    }
+}

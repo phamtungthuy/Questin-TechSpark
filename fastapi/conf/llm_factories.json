@@ -1,0 +1,233 @@
+{
+    "factory_llm_infos": [
+        {
+            "name": "OpenAI",
+            "logo": "",
+            "tags": "LLM,TEXT EMBEDDING,TTS,TEXT RE-RANK,SPEECH2TEXT,MODERATION",
+            "status": "1",
+            "llm": [
+                {
+                    "llm_name": "gpt-4o-mini",
+                    "tags": "LLM,CHAT,128K",
+                    "max_tokens": 128000,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gpt-4o",
+                    "tags": "LLM,CHAT,128K",
+                    "max_tokens": 128000,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gpt-3.5-turbo",
+                    "tags": "LLM,CHAT,4K",
+                    "max_tokens": 4096,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gpt-3.5-turbo-16k-0613",
+                    "tags": "LLM,CHAT,16k",
+                    "max_tokens": 16385,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "text-embedding-ada-002",
+                    "tags": "TEXT EMBEDDING,8K",
+                    "max_tokens": 8191,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "text-embedding-3-small",
+                    "tags": "TEXT EMBEDDING,8K",
+                    "max_tokens": 8191,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "text-embedding-3-large",
+                    "tags": "TEXT EMBEDDING,8K",
+                    "max_tokens": 8191,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "whisper-1",
+                    "tags": "SPEECH2TEXT",
+                    "max_tokens": 26214400,
+                    "model_type": "speech2text"
+                },
+                {
+                    "llm_name": "gpt-4",
+                    "tags": "LLM,CHAT,8K",
+                    "max_tokens": 8191,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gpt-4-turbo",
+                    "tags": "LLM,CHAT,8K",
+                    "max_tokens": 8191,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gpt-4-32k",
+                    "tags": "LLM,CHAT,32K",
+                    "max_tokens": 32768,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gpt-4o-2024-08-06",
+                    "tags": "LLM,CHAT,IMAGE2TEXT",
+                    "max_tokens": 128000,
+                    "model_type": "image2text"
+                },
+                 {
+                    "llm_name": "gpt-4o-mini-2024-07-18",
+                    "tags": "LLM,CHAT,IMAGE2TEXT",
+                    "max_tokens": 128000,
+                    "model_type": "image2text"
+                },
+                {
+                    "llm_name": "tts-1",
+                    "tags": "TTS",
+                    "max_tokens": 2048,
+                    "model_type": "tts"
+                }
+            ]
+        },
+        {
+            "name": "Ollama",
+            "logo": "",
+            "tags": "LLM,TEXT EMBEDDING,SPEECH2TEXT,MODERATION",
+            "status": "1",
+            "llm": []
+        },
+        {
+            "name": "OpenAI-API-Compatible",
+            "logo": "",
+            "tags": "LLM,TEXT EMBEDDING,SPEECH2TEXT,MODERATION",
+            "status": "1",
+            "llm": [
+                {
+                    "llm_name": "keepitreal/vietnamese-sbert",
+                    "tags": "TEXT EMBEDDING,8K",
+                    "max_tokens": 8191,
+                    "model_type": "embedding"
+                }
+            ]
+        },
+        
+        {
+            "name": "FastEmbed",
+            "logo": "",
+            "tags": "TEXT EMBEDDING",
+            "status": "1",
+            "llm": [
+                {
+                    "llm_name": "BAAI/bge-small-en-v1.5",
+                    "tags": "TEXT EMBEDDING,",
+                    "max_tokens": 512,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "BAAI/bge-small-zh-v1.5",
+                    "tags": "TEXT EMBEDDING,",
+                    "max_tokens": 512,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "BAAI/bge-base-en-v1.5",
+                    "tags": "TEXT EMBEDDING,",
+                    "max_tokens": 512,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "BAAI/bge-large-en-v1.5",
+                    "tags": "TEXT EMBEDDING,",
+                    "max_tokens": 512,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "sentence-transformers/all-MiniLM-L6-v2",
+                    "tags": "TEXT EMBEDDING,",
+                    "max_tokens": 512,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "nomic-ai/nomic-embed-text-v1.5",
+                    "tags": "TEXT EMBEDDING,",
+                    "max_tokens": 8192,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "jinaai/jina-embeddings-v2-small-en",
+                    "tags": "TEXT EMBEDDING,",
+                    "max_tokens": 2147483648,
+                    "model_type": "embedding"
+                },
+                {
+                    "llm_name": "jinaai/jina-embeddings-v2-base-en",
+                    "tags": "TEXT EMBEDDING,",
+                    "max_tokens": 2147483648,
+                    "model_type": "embedding"
+                }
+            ]
+        },
+        {
+            "name": "Gemini",
+            "logo": "",
+            "tags": "LLM,TEXT EMBEDDING,IMAGE2TEXT",
+            "status": "1",
+            "llm": [
+                {
+                    "llm_name": "gemini-1.5-pro-latest",
+                    "tags": "LLM,CHAT,1024K",
+                    "max_tokens": 1048576,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gemini-1.5-flash-latest",
+                    "tags": "LLM,CHAT,1024K",
+                    "max_tokens": 1048576,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gemini-2.0-flash-exp",
+                    "tags": "LLM,CHAT,1024K",
+                    "max_tokens": 1048576,
+                    "model_type": "chat"
+                },
+                {
+                    "llm_name": "gemini-1.0-pro-vision-latest",
+                    "tags": "LLM,IMAGE2TEXT,12K",
+                    "max_tokens": 12288,
+                    "model_type": "image2text"
+                },
+                {
+                    "llm_name": "text-embedding-004",
+                    "tags": "TEXT EMBEDDING",
+                    "max_tokens": 2048,
+                    "model_type": "embedding"
+                }
+            ]
+        },
+        {
+            "name": "TogetherAI",
+            "logo": "",
+            "tags": "LLM,TEXT EMBEDDING,IMAGE2TEXT",
+            "status": "1",
+            "llm": []
+        },
+        {
+            "name": "Google Cloud",
+            "logo": "",
+            "tags": "LLM",
+            "status": "1",
+            "llm": []
+        },
+        {
+            "name": "HuggingFace",
+            "logo": "",
+            "tags": "TEXT EMBEDDING",
+            "status": "1",
+            "llm": []
+        }
+    ]
+}
