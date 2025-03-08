@@ -128,6 +128,10 @@ Hệ thống được xây dựng trên một kiến trúc mô-đun với năm t
 - [service_conf-sample.yaml](./fastapi/conf/service_conf-sample.yaml): Cấu hình các dịch vụ backend. Các biến môi trường trong tệp này sẽ tự động được điền khi Docker container khởi động.
 - [docker-compose.yml](./docker-compose.yml): Quản lý quá trình khởi động hệ thống.
 
+Hệ thống cũng triển khai một mô hình embedding và một mô hình reranking:
+- Mô hình embedding: **keepitreal/vietnamese-sbert** với base URL **http://questin:8000**.
+- Mô hình Reranking: **hiieu/halong_embedding** with base URL **http://question:8000/rerank**.  
+
 Khi cập nhật các cấu hình trên, bạn cần khởi động lại tất cả các container để thay đổi có hiệu lực:
 
 > ```bash

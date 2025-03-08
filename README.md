@@ -129,8 +129,14 @@ When it comes to system configurations, you will need to manage the following fi
 - [service_conf-sample.yaml](./fastapi/conf/service_conf-sample.yaml): Configures the back-end services. The environment variables in this file will be automatically populated when the Docker container starts. Any environment variables set within the Docker container will be available for use, allowing you to customize service behavior based on the deployment environment.
 - [docker-compose.yml](./docker-compose.yml): The system relies on [docker-compose.yml](./docker-compose.yml) to start up.
 
+Server also serves an embedding model and a reranking model:
+- Embedding model: **keepitreal/vietnamese-sbert** with base URL **http://questin:8000**.
+- Reranking model: **hiieu/halong_embedding** with base URL **http://question:8000/rerank**. 
+
 Updates to the above configurations require a reboot of all containers to take effect:
 
 > ```bash
 > $ docker compose -f docker-compose.yml up -d
 > ```
+
+
